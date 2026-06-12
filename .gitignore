@@ -1,0 +1,31 @@
+# Local environments
+.venv/
+node_modules/
+app/node_modules/
+
+# Build output
+dist/
+app/dist/
+dist-ssr/
+app/dist-ssr/
+
+# Local captures and temporary files
+screenshots-review/
+*.log
+~$*
+
+# Environment files
+.env
+.env.local
+.env.*.local
+app/.env
+app/.env.local
+app/.env.*.local
+
+# Editors
+.vscode/
+.idea/
+.DS_Store
+*.swp
+*.swo
+*~
