@@ -344,6 +344,8 @@ export default {
   width: max(100vw, 177.78vh);
   height: max(56.25vw, 100vh);
   border: 0;
+  object-fit: cover;
+  opacity: 0.84;
   transform: translate(-50%, -50%) scale(1.08);
   pointer-events: none;
 }
