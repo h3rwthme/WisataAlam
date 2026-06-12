@@ -6,6 +6,7 @@
         <video
           class="hero-video"
           :src="heroVideoUrl"
+          :poster="heroFallbackImage"
           title="Cinematic drone footage Kepulauan Seribu"
           autoplay
           muted

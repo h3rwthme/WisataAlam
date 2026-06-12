@@ -11,6 +11,7 @@ app/dist-ssr/
 
 # Local captures and temporary files
 screenshots-review/
+live-check-screenshots/
 *.log
 ~$*
 
